@@ -18,19 +18,19 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: `${site.name} | Enclosed Cargo Trailers — Douglas, GA`,
-    template: `%s | ${site.name}`,
+    default: `${site.appName} | ${site.name} — Douglas, GA`,
+    template: `%s | ${site.appName}`,
   },
-  description: `Browse enclosed cargo trailer styles and current inventory from ${site.name} in Douglas, GA. Habla Español. Text ${site.phone} about any unit.`,
-  applicationName: site.shortName,
+  description: `Browse enclosed trailers and current inventory from ${site.name} in Douglas, GA. Habla Español. Text ${site.phone} about any unit.`,
+  applicationName: site.appName,
   appleWebApp: {
     capable: true,
-    title: site.shortName,
+    title: site.appName,
     statusBarStyle: "default",
   },
   openGraph: {
-    title: `${site.name} — Enclosed Cargo Trailers`,
-    description: `Douglas, GA cargo trailer catalog. Text ${site.phone} for details. Habla Español.`,
+    title: `${site.appName} — ${site.name}`,
+    description: `Douglas, GA enclosed trailer catalog. Text ${site.phone} for details. Habla Español.`,
     type: "website",
     locale: "en_US",
   },

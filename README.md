@@ -1,4 +1,4 @@
-# Hermes Cargo Catalog
+# Enclosed Trailer
 
 Mobile-friendly customer catalog for **Hermes Cargo LLC** (Douglas, GA). Browse enclosed trailer styles and current inventory, then tap a unit to open SMS to **912-383-0222** with a prefilled message.
 

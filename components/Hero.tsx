@@ -10,7 +10,7 @@ export function Hero() {
             Douglas, GA · Habla Español
           </span>
           <h1 className="mt-4 text-3xl font-extrabold tracking-tight text-navy sm:text-4xl lg:text-5xl">
-            {site.name}
+            {site.appName}
           </h1>
           <p className="mt-3 text-lg font-medium text-electric sm:text-xl">
             Welcome — browse enclosed cargo trailers &amp; current inventory

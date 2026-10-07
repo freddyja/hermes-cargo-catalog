@@ -1,7 +1,7 @@
 {
-  "name": "Hermes Cargo Trailers",
-  "short_name": "Hermes Cargo",
-  "description": "Enclosed cargo trailer catalog — Douglas, GA. Habla Español.",
+  "name": "Enclosed Trailer",
+  "short_name": "Enclosed Trailer",
+  "description": "Browse enclosed trailers from Hermes Cargo LLC — Douglas, GA. Habla Español.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

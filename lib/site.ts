@@ -1,9 +1,11 @@
-/** Hermes Cargo LLC — contact & business facts */
+/** Hermes Cargo LLC — contact & business facts; app chrome = Enclosed Trailer */
 
 export const site = {
   name: "Hermes Cargo LLC",
-  shortName: "Hermes Cargo",
-  tagline: "Enclosed Cargo Trailers",
+  /** Product / app name shown in UI chrome, titles, PWA */
+  appName: "Enclosed Trailer",
+  shortName: "Enclosed Trailer",
+  tagline: "Browse enclosed trailers",
   phone: "912-383-0222",
   phoneTel: "+19123830222",
   phoneSms: "9123830222",
